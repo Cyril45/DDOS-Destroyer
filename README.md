@@ -2,10 +2,10 @@
 
  <h2 align="center">Application qui permet un DDOS d'un site web soit avec son IP ou alors avec une liste de proxy qui est récupérée automatiquement</h2>
 
-## Features
+## Information importante
 Cette application a été créer à des fins d'apprentissage, elle n'a pas pour but d'être utilisé sur des sites web dont vous ne seriez pas propriétaire, ou don vous n'auriez pas l'autorisation.
 
-## Dependency
+## Dépendance
 Les dépendances sont gérées avec pipenv la liste des dépendances est disponible dans le fichier Pipfile.
 
 
