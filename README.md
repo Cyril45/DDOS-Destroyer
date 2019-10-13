@@ -1,5 +1,3 @@
-# DDOS_WEBSITE
-
 <h1 align="center"> DDOS Destroyer </h1>
 
  <h2 align="center">Application qui permet un DDOS d'un site web soit avec son IP ou alors avec une liste de proxy qui est récupérée automatiquement</h2>
